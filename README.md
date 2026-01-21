@@ -1,5 +1,7 @@
 # Loan-Approval-Prediction-Machine-Learning-
 Predict whether a loan will be Approved or Rejected based on applicant details
+
+
 Problem Statement:To build a Machine Learning model that can predict Loan Status (Approved / Rejected) using applicant financial and personal information.
 Tools & Technologies Used:Python,Pandas,Scikit-learn,Logistic Regression
 Dataset Description:
